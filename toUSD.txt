@@ -1,0 +1,4 @@
+Mexico MXN 20.39
+Canada CAD 1.26
+Europe EUR 0.79
+Japan JPY 115.62
